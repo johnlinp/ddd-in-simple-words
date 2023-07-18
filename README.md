@@ -41,6 +41,8 @@ A model is simplified version of knowledge, with a specific purpose, and written
 
 A ubiquitous language is a set of terms. One term can have only one meaning, and one meaning can only be expressed by one term.
 
+The ubiquitous language should be consistent in daily meetings, technical document, product, even code.
+
 <details>
     <summary>Comics</summary>
 
